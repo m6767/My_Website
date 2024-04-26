@@ -78,3 +78,22 @@ body {
     width: 300px;
     height: 500px;
 }
+
+.col-12.button_js {
+    text-align: center;
+}
+
+#myButton {
+    border: #fde984;
+    border-radius: 15px;
+    width: 200px;
+    height: 80px;
+    background-color: #fd1b1b;
+    color: bisque;
+    font-weight: bold;
+}
+
+#demo img {
+    margin-top: 20px;
+    width: 30%;
+}
